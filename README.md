@@ -212,14 +212,13 @@ Reporte disponible en:
 build/jacocoHtml/index.html
 ```
 
-
+<img width="1440" height="294" alt="Captura de pantalla 2025-11-25 a la(s) 15 24 22" src="https://github.com/user-attachments/assets/4be260cc-06a3-41e3-9f64-0aedfceea262" />
 
 ---
 
 # 📈 Diagrama de Secuencia (Mermaid)
 
-### 📸 **ESPACIO PARA CAPTURA DEL DIAGRAMA**
-
+<img width="4198" height="3794" alt="Untitled diagram-2025-11-25-181024" src="https://github.com/user-attachments/assets/13824fb6-eab7-4824-97d5-bf640816d32f" />
 
 ---
 
